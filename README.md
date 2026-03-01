@@ -17,7 +17,7 @@
 
 ## ドキュメント
 
-- [概念ドキュメント (CONCEPTS.md)](docs/CONCEPTS.md) — DCG、HITSCAN、意思決定の実態、トポロジカルモデル、情報収束の11段階
+- [概念ドキュメント (CONCEPTS.md)](docs/CONCEPTS.md) — DCG、HITSCAN、HITPLAN、意思決定の実態、トポロジカルモデル、情報収束の11段階
 
 ## ライセンス
 
