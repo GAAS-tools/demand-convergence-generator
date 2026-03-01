@@ -1,2 +1,24 @@
-# demand-convergence-generator
-general process to create input trigger of business computing flow
+# demand-convergence-generator (DCG)
+
+情報というエントロピーを処理し、事業というコンピューティングシステムにインプットする**情報トリガー**を生み出す一連の手法。
+
+一般的にはマーケティング、市場調査、与信調査、エンタープライズセールス、新規開拓などと形容される領域である。
+
+## DCG とは
+
+**DCG** は情報と情報を**安全に接続するためのプロトコル**を確立する一連の技法である。
+
+## HITSCAN
+
+接続前の事前スキャン。以下を確認する：
+
+- 接続すべき部門か
+- 接続した瞬間に汚染されないか
+
+## ドキュメント
+
+- [概念ドキュメント (CONCEPTS.md)](docs/CONCEPTS.md) — DCG、HITSCAN、意思決定の実態、トポロジカルモデル、情報収束の11段階
+
+## ライセンス
+
+GNU GPL v3 — [LICENSE](LICENSE)
